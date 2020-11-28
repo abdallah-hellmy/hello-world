@@ -1,2 +1,2 @@
 # hello-world
-it is the first time use a GitHub 
+Hi there i'm abdallah from egypt,sowftware developer 
